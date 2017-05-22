@@ -1,3 +1,5 @@
+### Let me make a test for git as well
+
 ### NCDC_Download.R ############################
 #
 # Script to download data from NCDC server
@@ -8,6 +10,7 @@
 # No need to manual format data while in the download data part
 # 'read download data' is still testing
 ################################################
+
 #clean the working space
 rm(list = ls(all = TRUE))
 ls(all = TRUE)
